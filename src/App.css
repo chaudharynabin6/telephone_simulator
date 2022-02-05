@@ -20,38 +20,8 @@ padding-top: 2rem;
   padding-right: 2rem;
   
 }
-.container > div > div > h1{
-  font-size: 2.4rem;
-  font-weight: 600;
- border-bottom: 1px solid var(--secondary-text-color);
- padding-bottom: 2rem;
 
-}
-.time{
- border-right: 1px solid var(--secondary-text-color);
- width: fit-content;
-}
-.status{
- border-right: 1px solid var(--secondary-text-color);
-  
-}
 
-.status > div >h1 {
-  font-size: 2.4rem;
-  font-weight: 600rem;
-  border-bottom: 1px solid var(--secondary-text-color);
-}
-.active{
- border-right: 1px solid var(--secondary-text-color);
- 
-}
-.queue{
- border-right: 1px solid var(--secondary-text-color);
-  
-}
-.detail{
-
-}
 
 table {
   padding-top: 2rem;
