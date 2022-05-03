@@ -387,7 +387,7 @@ decrease counter interval and remove the duration fininshed calls
                       <tbody>
                         <tr>
                           <th>Telephone</th>
-                          <th>Statue</th>
+                          <th>Status</th>
                         </tr>
                         {value.status.map((value, index) => {
                           return (
